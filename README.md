@@ -8,4 +8,4 @@ Run the following commands within this directory:
 - terraform apply to apply the infrastructure build
 - terraform destroy to destroy the built infrastructure
 
-Watch your tfstate ;)
+Watch your tfstate :wink:
