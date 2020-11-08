@@ -1,2 +1,1 @@
-# Terraform-pubsub-pull-GCP
-Terraform module for a pull subscription at GCP
+# Pub/sub pull module at terraform for GCP
